@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>magichua.lib</groupId>
   <artifactId>update4five</artifactId>
-  <version>1.0.9</version>
+  <version>1.1.5</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
